@@ -3,6 +3,7 @@
 ## Lab 1: Hello Camera
 
 **Labbfil**: lab1_hello_camera.py
+**Mål**: Fungerande miljö
 
     pipenv shell
     pipenv install
@@ -14,4 +15,10 @@
 
 ## Lab 2: Bildmanipulation
 
-TBD.
+**Labbfil**: lab2_frame_manipulation.py
+**Mål**: Skills för att fixa med bilder, hitta i dokumentation
+
+1. Labba med enkel bildmanipulation
+2. Använd matrisoperationer från NumPy
+3. Använd image processing från OpenCV
+
