@@ -3,6 +3,7 @@
 ## Lab 1: Hello Camera
 
 **Labbfil**: lab1_hello_camera.py
+
 **Mål**: Fungerande miljö
 
     pipenv shell
@@ -16,6 +17,7 @@
 ## Lab 2: Bildmanipulation
 
 **Labbfil**: lab2_frame_manipulation.py
+
 **Mål**: Skills för att fixa med bilder, hitta i dokumentation
 
 1. Labba med enkel bildmanipulation
