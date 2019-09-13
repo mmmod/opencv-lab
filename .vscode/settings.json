@@ -1,7 +1,0 @@
-{
-    "python.linting.pylintEnabled": false,
-    "python.linting.enabled": true,
-    "python.formatting.provider": "black",
-    "python.pythonPath": "/Users/markus/.local/share/virtualenvs/opencv-lab-wXdEOMwV/bin/python",
-    "python.linting.pep8Enabled": true
-}
